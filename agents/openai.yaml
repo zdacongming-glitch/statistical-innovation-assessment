@@ -1,0 +1,4 @@
+interface:
+  display_name: "统计研究创新性评估"
+  short_description: "按三级标准和一位小数的十分制评估统计研究创新，区分贡献、潜力与证据"
+  default_prompt: "使用 $statistical-innovation-assessment 先确定这个统计研究问题的创新层级，再按十分制评分并保留一位小数，解释相邻锚点差别，区分当前贡献、条件性潜力、验证状态与判断置信度。"
