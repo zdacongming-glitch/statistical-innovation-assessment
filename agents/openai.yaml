@@ -1,4 +1,4 @@
 interface:
   display_name: "统计研究创新性与稿件评估"
   short_description: "独立重复评估创新性与四维稿件质量，并按明确请求提供期刊或会议契合度指导"
-  default_prompt: "使用 $statistical-innovation-assessment 按我指定的范围评估这份研究材料，保留原创新性标准，默认进行五轮独立评分并报告均值、样本方差与实际次数；材料不足时注明状态，仅在我明确请求投稿指导时分析刊会契合度。"
+  default_prompt: "使用 $statistical-innovation-assessment 按我指定的范围评估这份研究材料，沿用原技术与理论创新锚点，并在同一量表内评价用已有工具获得的新认识；默认进行五轮独立评分并报告均值、样本方差与实际次数，材料不足时注明状态，仅在我明确请求投稿指导时分析刊会契合度。"
